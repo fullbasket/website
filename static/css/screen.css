@@ -473,7 +473,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background: #b80135 no-repeat center center;
+  background: #3d7bd8 no-repeat center center;
   background-size: cover;
 }
 
@@ -1030,6 +1030,7 @@ a.fn-item.active {
   #header-arrow {
     display: none;
   }
+
   a.btn {
     margin-top: 10px;
   }
