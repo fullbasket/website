@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hugo Scroll ![Test](https://github.com/janraasch/hugo-scroll/workflows/CI/badge.svg?branch=master&event=push) [![Pay me][paypal-svg]][paypal-dot-me] [![Sponsor me][github-sponsors-svg]][github-sponsors]
 
 📜 A [Hugo](https://gohugo.io/)-theme for pretty, quick and simple single-page websites.
@@ -95,3 +96,7 @@ If you do not have a GitHub-account, feel free to hit me up via e-mail (see [jan
 [fork-awesome]: https://forkaweso.me/Fork-Awesome/
 [fork-awesome-icons]: https://forkaweso.me/Fork-Awesome/icons/
 [hugo-shortcodes]: https://gohugo.io/content-management/shortcodes/
+=======
+# website
+static website fullbasket_ph
+>>>>>>> 8a74e7ecbf3079ea50a00c31efc94260d65bebca
