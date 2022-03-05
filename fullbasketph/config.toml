@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://fullbasket.github.io/website/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "website"
 
 # The "title" of your website
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "FullBasket.ph A pinoy reseller website"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
