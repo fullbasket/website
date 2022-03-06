@@ -1,4 +1,4 @@
-name: github pages
+name: ci
 
 on:
   push:
@@ -28,8 +28,8 @@ jobs:
         run: hugo --minify --gc --destination ../public --source ./fullbasketph --themesDir ../.. --baseURL https://fullbasket.github.io/website/
 
       - name: Deploy
+        if: github.event_name == 'push'
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
